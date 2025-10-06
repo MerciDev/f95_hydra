@@ -1,5 +1,15 @@
 {
     "name": "F95Zone",
+    "games": [
+        {
+            "title": "Nombre del Juego",
+            "platform": "PC",
+            "image": "https://miweb.com/imagen.jpg",
+            "url": "https://miweb.com/juego.zip",
+            "genre": "Acción",
+            "description": "Descripción del juego"
+        }
+    ],
     "downloads": [
         {
             "title": "Unreal Engine Macro Micro VR Service (v0.4.6) [F95Z]",
