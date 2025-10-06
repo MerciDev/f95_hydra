@@ -2,12 +2,15 @@
     "name": "F95Zone",
     "games": [
         {
-            "title": "Nombre del Juego",
+            "title": "Super Aventura",
             "platform": "PC",
-            "image": "https://miweb.com/imagen.jpg",
-            "url": "https://miweb.com/juego.zip",
-            "genre": "Acción",
-            "description": "Descripción del juego"
+            "image": "https://via.placeholder.com/300x400.png?text=Super+Aventura",
+            "url": "https://example.com/SuperAventura.zip",
+            "genre": "Aventura",
+            "description": "Explora mundos mágicos y completa misiones épicas en Super Aventura.",
+            "release_date": "2025-01-01",
+            "developer": "MiEstudio",
+            "publisher": "MiEstudio"
         }
     ],
     "downloads": [
